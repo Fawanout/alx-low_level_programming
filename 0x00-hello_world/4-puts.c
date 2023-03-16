@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/*ihefihiheifhzliuot'jit'jt'ijt'ihti'uti'ohtouh*/
+/**
+ * main - this is th emain function
+ * Return: always 0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
