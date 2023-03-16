@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-/*main function have to return zero*/
-int main(void)
+/*ihefihiheifhzliuot'jit'jt'ijt'ihti'uti'ohtouh*/
+intmain(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
-
 }
