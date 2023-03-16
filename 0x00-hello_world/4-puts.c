@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*main function have to return zero*/
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
