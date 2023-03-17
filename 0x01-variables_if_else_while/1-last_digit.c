@@ -4,7 +4,8 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main serves at the starting point for program execution
+ * main - the starting
+ * point for program execution
  * Return: always 0 (succes)
 */
 int main(void)
@@ -14,7 +15,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
+	/* your code goes there here */
 	m = n % 10;
 	if (m > 5)
 		printf("Last digit of %d is %d and is greater than 5\n", n, m);
