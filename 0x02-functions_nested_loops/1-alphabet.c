@@ -1,10 +1,7 @@
 #include "main.h"
-
 /**
- * main- function main
- * Return: (0) success
+ * print_alphabet(void)- prints alphabets
 */
-
 void print_alphabet(void)
 {
 	char i;
