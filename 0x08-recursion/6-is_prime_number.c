@@ -3,6 +3,7 @@
 /**
  * is_prime_number - checks if the input is prime num
  * @n: input
+ * @g: input
  * Return: return 1 if input int is a prime num, else 0
  */
 int check_prime(int n, int g);
