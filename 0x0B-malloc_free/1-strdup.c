@@ -16,11 +16,14 @@ char *_strdup(char *str)
 		return (NULL);
 	for (; str[size] != '\0'; size++)
 		;
+
 	s = malloc(size * sizeof(*str) + 1);
 
 	if (s == 0)
+	{
 		return (NULL);
-	else if
+	}
+	else
 	{
 		for (; i < size; i++)
 			s[i] = str[i];
